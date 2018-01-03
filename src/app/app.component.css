@@ -1,0 +1,7 @@
+.global-css{
+    /* background-image: url('/assets/images/bg/savaal-head.jpg'); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family:"Lucida Console", Monaco, monospace;
+}

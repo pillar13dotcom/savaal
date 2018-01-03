@@ -1,0 +1,10 @@
+
+  .flex-container{
+    display: flex;
+    justify-content: space-around;
+    height: 30em;
+}
+
+.flex-item{
+   align-self: center;
+}
